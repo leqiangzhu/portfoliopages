@@ -10,7 +10,7 @@ _This is a page for week 1 code reviews_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository by using Terminal command: git clone https://github.com/leqiangzhu/PortfolioPage.git -
+* _Clone this repository by using Terminal command: git clonehttps://github.com/leqiangzhu/portfoliopages -
 * _Change into the work directory._
 * _Open the project in any text editor_
 * _To run the webpage, open it in a any browser._
